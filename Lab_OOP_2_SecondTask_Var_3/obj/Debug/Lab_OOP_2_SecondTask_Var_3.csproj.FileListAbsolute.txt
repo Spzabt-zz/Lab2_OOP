@@ -1,0 +1,7 @@
+D:\Study\OOP_labs\Lab2_OOP\Lab_OOP_2_SecondTask_Var_3\bin\Debug\Lab_OOP_2_SecondTask_Var_3.exe.config
+D:\Study\OOP_labs\Lab2_OOP\Lab_OOP_2_SecondTask_Var_3\bin\Debug\Lab_OOP_2_SecondTask_Var_3.exe
+D:\Study\OOP_labs\Lab2_OOP\Lab_OOP_2_SecondTask_Var_3\bin\Debug\Lab_OOP_2_SecondTask_Var_3.pdb
+D:\Study\OOP_labs\Lab2_OOP\Lab_OOP_2_SecondTask_Var_3\obj\Debug\Lab_OOP_2_SecondTask_Var_3.csprojAssemblyReference.cache
+D:\Study\OOP_labs\Lab2_OOP\Lab_OOP_2_SecondTask_Var_3\obj\Debug\Lab_OOP_2_SecondTask_Var_3.csproj.CoreCompileInputs.cache
+D:\Study\OOP_labs\Lab2_OOP\Lab_OOP_2_SecondTask_Var_3\obj\Debug\Lab_OOP_2_SecondTask_Var_3.exe
+D:\Study\OOP_labs\Lab2_OOP\Lab_OOP_2_SecondTask_Var_3\obj\Debug\Lab_OOP_2_SecondTask_Var_3.pdb
